@@ -10,9 +10,10 @@ index++;
 
 if (index === code.length) {
   alert(`Hooray!`);
-  index= 0;
+  index = 0;
   }
 } else {
-  index= 0;
+  index = 0;
   }
+});
 }
